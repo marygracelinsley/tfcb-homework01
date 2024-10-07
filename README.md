@@ -1,11 +1,12 @@
 # TFCB- HOMEWORK01
 
 ## Section 1: Images
-Here are the images from this homework assignment from `images/` directory:
-! [casent_0172345_rhytidoponera_metallica)] (./images/casent_0172345_rhytidoponera_metallica.jpg)
-! [casent_0191696_camponotus_darwinii)] (./images/casent_0191696_camponotus_darwinii .jpg)
-! [casent_0901788_p1_high_acanthomyrmex_ferox] (./images/casent_0901788_p1_high_acanthomyrmex_ferox.jpg)
-! [casent_0906296_p1_high_cataglyphis_fortis] (./images/casent_0906296_p1_high_cataglyphis_fortis.jpg)
+Here are the images from the homework assignment located in the `images/` directory:
+![Rhytidoponera Metallica](./images/casent_0172345_rhytidoponera_metallica.jpg)
+![Camponotus Darwinii](./images/casent_0191696_camponotus_darwinii.jpg)
+![Acanthomyrmex Ferox](./images/casent_0901788_p1_high_acanthomyrmex_ferox.jpg)
+![Cataglyphis Fortis](./images/casent_0906296_p1_high_cataglyphis_fortis.jpg)
+
 
 ## Section 2: Lists
 Here is my grocery list from today:
@@ -18,7 +19,7 @@ Here is my grocery list from today:
 - Tofu 
 
 ## Section 3: Links
-Here is a link my account (https://github.com/marygracelinsley).
+Here is a link my Github account (https://github.com/marygracelinsley).
 
 
 ## Section 4: Tables

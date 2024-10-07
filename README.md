@@ -2,7 +2,7 @@
 
 ## Section 1: Images
 Here are the images from the homework assignment located in the `images/` directory:
-![Rhytidoponera Metallica](./images/casent_0172345_rhytidoponera_metallica.jpg)
+![Rhytidoponera Metallica](./images/casent_0191696_camponotus_darwinii.jpg)
 ![Camponotus Darwinii](./images/casent_0191696_camponotus_darwinii.jpg)
 ![Acanthomyrmex Ferox](./images/casent_0901788_p1_high_acanthomyrmex_ferox.jpg)
 ![Cataglyphis Fortis](./images/casent_0906296_p1_high_cataglyphis_fortis.jpg)
